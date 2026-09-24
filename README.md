@@ -33,8 +33,11 @@ ros2 launch coach_robot_description display.launch.py
 
 ## Visualization
 
-*(screenshot: robot in RViz)*
-*(GIF: robot driving in Gazebo)*
+## Visualization
+
+![Robot in RViz](docs/images/rviz_robot.png)
+
+![Robot arm moving in Gazebo](docs/images/gazebo_demo.gif)
 
 ## Limitations / Future Work
 
