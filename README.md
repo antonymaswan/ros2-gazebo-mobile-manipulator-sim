@@ -19,17 +19,17 @@ Learn URDF/Xacro and Gazebo simulation by building a robot from scratch, rather 
 - **JointStatePublisher** — live joint angles, physics → ROS2
 - **ros_gz_bridge** — topics bridged between Gazebo and ROS2 (clock, joints, tf, cmd_vel, arm commands)
 
-\`\`\`bash
+```bash
 ros2 launch coach_robot_bringup my_robot_gazebo.launch.xml
-\`\`\`
+```
 
 ## Verification
 
 Every stage checked visually in RViz before moving on — link placement and joint rotation direction confirmed against RViz's TF display, not just derived on paper.
 
-\`\`\`bash
+```bash
 ros2 launch coach_robot_description display.launch.py
-\`\`\`
+```
 
 ## Visualization
 
