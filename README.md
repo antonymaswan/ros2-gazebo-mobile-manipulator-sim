@@ -4,7 +4,7 @@ A differential-drive mobile robot with a 2-DOF arm, built from scratch in URDF/X
 
 ## Problem
 
-Learn URDF/Xacro and Gazebo simulation by building a robot from scratch, rather than launching an existing package — every link, joint, and plugin authored and debugged individually.
+Learn URDF/Xacro and Gazebo simulation by building a robot from scratch, rather than launching an existing package. Every link, joint, and plugin authored and debugged individually.
 
 ## Robot Design
 
